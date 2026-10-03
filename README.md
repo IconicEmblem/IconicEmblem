@@ -1,4 +1,3 @@
-  # IconicEmblem
 # Muhammad Subhan
 
 ## About Me
